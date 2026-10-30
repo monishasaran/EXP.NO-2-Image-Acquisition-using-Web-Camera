@@ -29,10 +29,9 @@ Step 5:
 Resize the frame and rotate it using OpenCV functions, then display the processed frames.
 
 # 💻 Program
-Developed By:
-Name: Monisha S
-
-Register No: 212225040258
+## Developed By:
+## Name: MONISHA S
+## Register No: 212225040258
 
 # CODE:
 ```
